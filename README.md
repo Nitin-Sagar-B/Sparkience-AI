@@ -69,6 +69,6 @@ We welcome collaboration from developers, researchers, and enthusiasts. Please r
 All projects within the Sparkience AI Lab are open-source and licensed under the MIT License. For more details, check the `LICENSE` file in each repository.
 
 ## 📬 Contact
-For inquiries, feedback, or support, please reach out via email or connect with us on [Discord](https://discord.gg).
+For inquiries, feedback, or support, please reach out via email or connect with us on [Discord](https://discord.gg/HKscyfKb).
 
 ---
