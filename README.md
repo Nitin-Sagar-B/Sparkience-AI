@@ -2,6 +2,7 @@
 
 # Sparkience [THE AI Lab]
 
+![Sparkience banner](https://drive.google.com/file/d/14DHbFMgQcQBOVriywN7FgHqxjVXpCqR6/view?usp=drive_link)
 Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven projects that push the boundaries of innovation, technology, and user experience. This repository serves as the central hub for our collective efforts in developing intelligent, user-centric applications that harness the power of AI, machine learning, and large language models.
 
 ## 🚀 Projects in the Sparkience Ecosystem
