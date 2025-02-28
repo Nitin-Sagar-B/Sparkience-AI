@@ -14,21 +14,21 @@ Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven pro
      - Web-based UI for seamless interaction.
    - **Repository**: [SparkPrompt](https://github.com/Nitin-Sagar-B/SparkPrompt)
 
-### 2. **Query-Bot**
-   - **Description**: A natural language query interface enabling users to retrieve, filter, and process data effortlessly. Query-Bot translates human language into actionable queries.
+### 2. **DSSential-The-AI-Chief**
+   - **Description**: An advanced decision support system that leverages AI, time series forecasting, and scenario analysis to provide businesses with data-driven insights and optimization tools.
    - **Features**:
-     - Supports dynamic database queries.
-     - Context-aware results with filtering.
-     - Beginner-friendly query learning integration.
-   - **Repository**: [Query-Bot](https://github.com/Nitin-Sagar-B/Query-Bot)
+     - Data upload and overview with quality checks and visualizations.
+     - Time series forecasting using the Prophet model.
+     - What-if scenario analysis and goal setting.
+   - **Repository**: [DSSential-The-AI-Chief](https://github.com/Nitin-Sagar-B/DSSential-The-AI-Chief)
 
-### 3. **SparkOllama**
-   - **Description**: A user interface for seamless interaction with various Ollama models. It focuses on enhancing chat experiences by offering a dark-themed UI, chat history, and real-time message streaming.
+### 3. **Sparkle-AI**
+   - **Description**: An AI-powered clipboard assistant that analyzes and responds to copied text, providing intelligent, context-aware insights.
    - **Features**:
-     - Model selection for dynamic interaction.
-     - Optimized UI for developer and user needs.
-     - Integration-ready for advanced applications.
-   - **Repository**: [SparkOllama](https://github.com/Nitin-Sagar-B/SparkOllama)
+     - Real-time text processing using advanced language models.
+     - System tray integration for easy access.
+     - Offline functionality for uninterrupted assistance.
+   - **Repository**: [Sparkle-AI](https://github.com/Nitin-Sagar-B/Sparkle-AI)
 
 ### 4. **SparkDocs**
    - **Description**: An intelligent documentation assistant to streamline the process of managing and querying technical documents. SparkDocs leverages state-of-the-art NLP for intuitive access to documentation.
@@ -38,21 +38,45 @@ Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven pro
      - Integration with various file formats.
    - **Repository**: [SparkDocs](https://github.com/Nitin-Sagar-B/SparkDocs)
 
-### 5. **SparkDB**
-   - **Description**: A dynamic, intelligent database interface allowing users to create, query, and visualize custom tables through natural language. Aimed at empowering both technical and non-technical users.
+### 5. **SparkOllama**
+   - **Description**: A user interface for seamless interaction with various Ollama models. It focuses on enhancing chat experiences by offering a dark-themed UI, chat history, and real-time message streaming.
    - **Features**:
-     - Natural language query processing.
-     - SQL generation for educational purposes.
-     - Custom table creation and visualization.
-   - **Repository**: [SparkDB](https://github.com/Nitin-Sagar-B/SparkDB)
+     - Model selection for dynamic interaction.
+     - Optimized UI for developer and user needs.
+     - Integration-ready for advanced applications.
+   - **Repository**: [SparkOllama](https://github.com/Nitin-Sagar-B/SparkOllama)
 
-### 6. **SparkDilemmaX**
+### 6. **FlowScope**
+   - **Description**: A web application designed to enhance decision-making and prediction accuracy for web traffic analysis using the HybridFlow Forecast Model.
+   - **Features**:
+     - Combines ARIMA, SARIMA, ETS, and LSTM models for robust forecasting.
+     - Focuses on web traffic analysis to aid business optimization.
+     - Provides a user-friendly interface for data visualization and analysis.
+   - **Repository**: [FlowScope](https://github.com/Nitin-Sagar-B/flowscope) 
+
+### 7. **SparkDilemmaX**
    - **Description**: An AI Ethical Dilemma Simulator that challenges users to make decisions on real-world ethical issues. It uses AI to analyze choices and provide diverse perspectives.
    - **Features**:
      - Scenario generation with LangChain.
      - Ethical analysis and outcome exploration.
      - Contextual enrichment via Gemini API.
    - **Repository**: [SparkDilemmaX](https://github.com/Nitin-Sagar-B/SparkDilemmaX)
+
+### 8. **Query-Bot**
+   - **Description**: A natural language query interface enabling users to retrieve, filter, and process data effortlessly. Query-Bot translates human language into actionable queries.
+   - **Features**:
+     - Supports dynamic database queries.
+     - Context-aware results with filtering.
+     - Beginner-friendly query learning integration.
+   - **Repository**: [Query-Bot](https://github.com/Nitin-Sagar-B/Query-Bot)
+
+### 9. **SparkDB**
+   - **Description**: A dynamic, intelligent database interface allowing users to create, query, and visualize custom tables through natural language. Aimed at empowering both technical and non-technical users.
+   - **Features**:
+     - Natural language query processing.
+     - SQL generation for educational purposes.
+     - Custom table creation and visualization.
+   - **Repository**: [SparkDB](https://github.com/Nitin-Sagar-B/SparkDB)
 
 ---
 
