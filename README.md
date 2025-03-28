@@ -30,6 +30,16 @@ Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven pro
      - Offline functionality for uninterrupted assistance.
    - **Repository**: [Sparkle-AI](https://github.com/Nitin-Sagar-B/Sparkle-AI)
 
+### 4. RaTiO-CoRE
+   - **Description:** A cutting-edge modular AI framework designed for multi-model collaboration, enabling seamless knowledge transfer, adaptive context management, and dynamic reasoning across diverse language models.
+
+   - **Features**:
+      - Multi-Expert Collaboration – Orchestrates multiple AI models to work in synergy for enhanced decision-making.
+      - Dynamic Context Management – Adapts to evolving inputs, ensuring coherent and contextually aware responses.
+      - Semantic Knowledge Transfer – Efficiently shares and refines information across different AI agents.
+      - **Repository**: [RaTiO-CoRE](https://github.com/Nitin-Sagar-B/RaTiO-CoRE)
+
+
 ### 4. **SparkDocs**
    - **Description**: An intelligent documentation assistant to streamline the process of managing and querying technical documents. SparkDocs leverages state-of-the-art NLP for intuitive access to documentation.
    - **Features**:
