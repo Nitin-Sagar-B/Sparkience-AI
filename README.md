@@ -29,7 +29,7 @@ Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven pro
       - Multi-Expert Collaboration – Orchestrates multiple AI models to work in synergy for enhanced decision-making.
       - Dynamic Context Management – Adapts to evolving inputs, ensuring coherent and contextually aware responses.
       - Semantic Knowledge Transfer – Efficiently shares and refines information across different AI agents.
-      - **Repository**: [RaTiO-CoRE](https://github.com/Nitin-Sagar-B/RaTiO-CoRE)
+   - **Repository**: [RaTiO-CoRE](https://github.com/Nitin-Sagar-B/RaTiO-CoRE)
 
 ### 4. **SparkPrompt**
    - **Description**: A Prompt Engineering Simulator designed to refine and evaluate problem statements and prompts. Built with LangChain and Gemini API, SparkPrompt enhances prompt creation with detailed feedback and refinement suggestions.
