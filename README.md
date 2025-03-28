@@ -6,13 +6,13 @@ Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven pro
 
 ## 🚀 Projects in the Sparkience Ecosystem
 
-### 1. **SparkPrompt**
-   - **Description**: A Prompt Engineering Simulator designed to refine and evaluate problem statements and prompts. Built with LangChain and Gemini API, SparkPrompt enhances prompt creation with detailed feedback and refinement suggestions.
+### 1. **Sparkle-AI**
+   - **Description**: An AI-powered clipboard assistant that analyzes and responds to copied text, providing intelligent, context-aware insights.
    - **Features**:
-     - Problem statement generation.
-     - Interactive prompt evaluation and refinement.
-     - Web-based UI for seamless interaction.
-   - **Repository**: [SparkPrompt](https://github.com/Nitin-Sagar-B/SparkPrompt)
+     - Real-time text processing using advanced language models.
+     - System tray integration for easy access.
+     - Offline functionality for uninterrupted assistance.
+   - **Repository**: [Sparkle-AI](https://github.com/Nitin-Sagar-B/Sparkle-AI)
 
 ### 2. **DSSential-The-AI-Chief**
    - **Description**: An advanced decision support system that leverages AI, time series forecasting, and scenario analysis to provide businesses with data-driven insights and optimization tools.
@@ -22,15 +22,7 @@ Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven pro
      - What-if scenario analysis and goal setting.
    - **Repository**: [DSSential-The-AI-Chief](https://github.com/Nitin-Sagar-B/DSSential-The-AI-Chief)
 
-### 3. **Sparkle-AI**
-   - **Description**: An AI-powered clipboard assistant that analyzes and responds to copied text, providing intelligent, context-aware insights.
-   - **Features**:
-     - Real-time text processing using advanced language models.
-     - System tray integration for easy access.
-     - Offline functionality for uninterrupted assistance.
-   - **Repository**: [Sparkle-AI](https://github.com/Nitin-Sagar-B/Sparkle-AI)
-
-### 4. RaTiO-CoRE
+### 3. **RaTiO-CoRE**
    - **Description:** A cutting-edge modular AI framework designed for multi-model collaboration, enabling seamless knowledge transfer, adaptive context management, and dynamic reasoning across diverse language models.
 
    - **Features**:
@@ -39,8 +31,15 @@ Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven pro
       - Semantic Knowledge Transfer – Efficiently shares and refines information across different AI agents.
       - **Repository**: [RaTiO-CoRE](https://github.com/Nitin-Sagar-B/RaTiO-CoRE)
 
+### 4. **SparkPrompt**
+   - **Description**: A Prompt Engineering Simulator designed to refine and evaluate problem statements and prompts. Built with LangChain and Gemini API, SparkPrompt enhances prompt creation with detailed feedback and refinement suggestions.
+   - **Features**:
+     - Problem statement generation.
+     - Interactive prompt evaluation and refinement.
+     - Web-based UI for seamless interaction.
+   - **Repository**: [SparkPrompt](https://github.com/Nitin-Sagar-B/SparkPrompt)
 
-### 4. **SparkDocs**
+### 5. **SparkDocs**
    - **Description**: An intelligent documentation assistant to streamline the process of managing and querying technical documents. SparkDocs leverages state-of-the-art NLP for intuitive access to documentation.
    - **Features**:
      - Natural language document search.
@@ -48,7 +47,7 @@ Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven pro
      - Integration with various file formats.
    - **Repository**: [SparkDocs](https://github.com/Nitin-Sagar-B/SparkDocs)
 
-### 5. **SparkOllama**
+### 6. **SparkOllama**
    - **Description**: A user interface for seamless interaction with various Ollama models. It focuses on enhancing chat experiences by offering a dark-themed UI, chat history, and real-time message streaming.
    - **Features**:
      - Model selection for dynamic interaction.
@@ -56,7 +55,7 @@ Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven pro
      - Integration-ready for advanced applications.
    - **Repository**: [SparkOllama](https://github.com/Nitin-Sagar-B/SparkOllama)
 
-### 6. **FlowScope**
+### 7. **FlowScope**
    - **Description**: A web application designed to enhance decision-making and prediction accuracy for web traffic analysis using the HybridFlow Forecast Model.
    - **Features**:
      - Combines ARIMA, SARIMA, ETS, and LSTM models for robust forecasting.
@@ -64,7 +63,7 @@ Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven pro
      - Provides a user-friendly interface for data visualization and analysis.
    - **Repository**: [FlowScope](https://github.com/Nitin-Sagar-B/flowscope) 
 
-### 7. **SparkDilemmaX**
+### 8. **SparkDilemmaX**
    - **Description**: An AI Ethical Dilemma Simulator that challenges users to make decisions on real-world ethical issues. It uses AI to analyze choices and provide diverse perspectives.
    - **Features**:
      - Scenario generation with LangChain.
@@ -72,7 +71,7 @@ Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven pro
      - Contextual enrichment via Gemini API.
    - **Repository**: [SparkDilemmaX](https://github.com/Nitin-Sagar-B/SparkDilemmaX)
 
-### 8. **Query-Bot**
+### 9. **Query-Bot**
    - **Description**: A natural language query interface enabling users to retrieve, filter, and process data effortlessly. Query-Bot translates human language into actionable queries.
    - **Features**:
      - Supports dynamic database queries.
@@ -80,7 +79,7 @@ Welcome to the **Sparkience AI Lab**, an ecosystem of cutting-edge AI-driven pro
      - Beginner-friendly query learning integration.
    - **Repository**: [Query-Bot](https://github.com/Nitin-Sagar-B/Query-Bot)
 
-### 9. **SparkDB**
+### 10. **SparkDB**
    - **Description**: A dynamic, intelligent database interface allowing users to create, query, and visualize custom tables through natural language. Aimed at empowering both technical and non-technical users.
    - **Features**:
      - Natural language query processing.
