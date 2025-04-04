@@ -1,11 +1,11 @@
 <h1 align="center">🚀 Sparkience [The AI Lab] 🔬</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+collection+of+AI+projects.;Built+by+Nitin+Sagar+Boyeena.;Powering+Next-Gen+AI+Applications." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+collection+of+AI+tools.;Built+by+Nitin+Sagar+Boyeena.;Powering+Next-Gen+AI+Applications." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/Nitin-Sagar-B/Sparkience?style=flat-square&color=informational"/>
+  <img src="https://img.shields.io/github/license/Nitin-Sagar-B/Sparkience-AI?style=flat-square&color=informational"/>
   <img src="https://img.shields.io/badge/Contributions-Welcome-6A5ACD?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%A1AI-blueviolet?style=flat-square"/>
 </p>
